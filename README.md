@@ -7,8 +7,8 @@
 [![stars](https://img.shields.io/github/stars/HollowMan6/Guessing-Game?style=social)](../../stargazers)
 [![forks](https://img.shields.io/github/forks/HollowMan6/Guessing-Game?style=social)](../../network/members)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
+[![Open Source Love](https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html)](https://hollowman6.github.io/fund.html)
+[![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/Guessing-Game.svg)](../../archive/master.zip)
 
 [The Unix Workbench](https://www.coursera.org/learn/unix)课程作业。
